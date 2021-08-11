@@ -1,10 +1,23 @@
 {
-    "name": "wl-helpers",
-    "version": "1.0.0",
-    "description": "Just a random utility",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
-    "files": [
-      "/dist"
-    ]
+  "name": "wl-utils-or-helpers",
+  "version": "1.0.1",
+  "description": "Just a random utilities.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamlimianto/wl-utils-or-helpers.git"
+  },
+  "author": "drick.silver@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamlimianto/wl-utils-or-helpers/issues"
+  },
+  "homepage": "https://github.com/williamlimianto/wl-utils-or-helpers#readme"
 }
