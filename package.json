@@ -1,0 +1,10 @@
+{
+    "name": "wl-helpers",
+    "version": "1.0.0",
+    "description": "Just a random utility",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+      "/dist"
+    ]
+}
